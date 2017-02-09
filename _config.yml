@@ -16,7 +16,7 @@ description: 'Write an awesome description for your new site here. You can edit 
 '
 baseurl: 
 url: 
-twitter_username: jekyllrb
+twitter_username: math-tweet
 github_username: jekyll
 port: 5001
 host: 0.0.0.0
